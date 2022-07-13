@@ -1,2 +1,2 @@
 # color
-this color project
+this is color project
